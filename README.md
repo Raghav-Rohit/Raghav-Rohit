@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Raghav-Rohit
 - 👀 I’m interested in optimization algorithms
-- 🌱 I’m currently learning ..
-- 💞️ I’m looking to collaborate on ...
+- 🌱 Currently working with Matlab and python
 - 📫 Reach me @ dabbara2@illinois.edu
 
 <!---
